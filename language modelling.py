@@ -39,7 +39,7 @@ def main():
     
     
     # giving a title
-    st.title('NLM: NEXT WORD PREDICTOR')
+    st.title('Language Modelling: NEXT WORD PREDICTOR')
     
     
     # getting the input data from the userocco
