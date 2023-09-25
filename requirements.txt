@@ -1,4 +1,7 @@
-numpy
-streamlit
-keras
-tensorflow
+numpy==1.24.3
+streamlit==1.27.0
+keras==2.13.1
+tensorflow==2.13.0
+tensorboard-data-server==0.7.1
+tensorflow-estimator==2.13.0
+pandas==2.1.1
